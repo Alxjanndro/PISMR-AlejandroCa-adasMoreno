@@ -9,10 +9,6 @@ Este repositorio contiene la documentación y los archivos de configuración del
 - Configuración de servicios de red (Active Directory, DNS, DHCP).
 - Gestión de permisos y recursos compartidos.
 
-## Estructura del Proyecto
-- `/memoria`: Documentación técnica y memoria del proyecto.
-- `/scripts`: Scripts de configuración y automatización.
-- `/config`: Archivos de configuración de red y entornos.
 
-## Instrucciones
-Para revisar el proyecto, consulta la memoria técnica alojada en la carpeta correspondiente.
+
+
